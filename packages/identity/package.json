@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "@atproto/common-web": "workspace:^",
-    "@atproto/crypto": "workspace:^"
+    "@atproto/crypto": "workspace:^",
+    "viem": "^2.0.0"
   },
   "devDependencies": {
     "@did-plc/lib": "^0.0.1",
